@@ -3,7 +3,6 @@
 A modern, responsive portfolio website showcasing data science projects and technical articles. Built with React, TypeScript, and Supabase, featuring a dynamic admin dashboard for content management.
 
 ![Portfolio Preview](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
-
 ## 🌟 Features
 
 - **Dynamic Project Gallery**: Interactive showcase of data science and ML projects
